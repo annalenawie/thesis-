@@ -9,7 +9,8 @@ recapitulate important theory papers
 ## Important Results
 lots of plots
 
-## Bibliography 
+## Bibliography
+[1] 
 
 ## Appendix 
 
